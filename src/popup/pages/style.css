@@ -1,0 +1,29 @@
+/*
+
+
+.form-control{
+    border-color: #258048 !important;
+}
+
+.title, .control-label{
+    color:white !important;
+}
+
+*/
+
+
+* {
+    color: #d88fc6 !important;
+    border-color:  #00FFC3 !important;
+    /* white
+    #D8C99B */
+
+    /* #1C7C54
+    
+    #8BAAAD #8E5572*/
+
+    /*https://coolors.co/151528-708d81-d8c99b-f4bb35-bf0603 */
+
+    background-color: #171F2A!important;
+  
+}
